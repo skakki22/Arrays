@@ -1,7 +1,7 @@
 # Arrays
 Problems we solved for this Data Structure 
 
-1. Maximum Subarray (picked up from leetcode)
+<b>1. Maximum Subarray (picked up from leetcode)</b>
 
 Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 
@@ -11,7 +11,7 @@ Input: [-2,1,-3,4,-1,2,1,-5,4], Output: 6 Explanation: [4,-1,2,1] has the larges
 
 If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
 
-2. Rotate Array: 
+<b>2. Rotate Array: </b>
 
 Given an unsorted array arr[] of size N, rotate it by D elements (clockwise).
 
@@ -27,7 +27,7 @@ Output: 3 4 5 1 2 8 10 12 14 16 18 20 2 4 6
 
 Explanation : Testcase 1: 1 2 3 4 5 when rotated by 2 elements, it becomes 3 4 5 1 2.
 
-3. K-diff Pairs in an Array
+<b>3. K-diff Pairs in an Array</b>
 
 Given an array of integers and an integer k, you need to find the number of unique k-diff pairs in the array. Here a k-diff pair is defined as an integer pair (i, j), where i and j are both numbers in the array and their absolute difference is k.
 
@@ -63,7 +63,7 @@ The length of the array won't exceed 10,000.
 All the integers in the given input belong to the range: [-1e7, 1e7].
 
 
-4. Merge Sorted Array:
+<b>4. Merge Sorted Array:</b>
 
 Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.
 
